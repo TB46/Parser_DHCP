@@ -1,0 +1,6 @@
+Type:Dell,IPv4:192.168.5.168,Mac:C8:4B:D6:0A:77:2D,Node:A-76MRRL3
+Type:Hikvision,IPv4:192.168.12.102,Mac:18:68:CB:45:1A:AE,Node:Unknown
+Type:RaspberryPi,IPv4:192.168.5.172,Mac:B8:27:EB:B4:81:6D,Node:kali
+Type:Unknown,IPv4:192.168.5.21,Mac:C0:25:A5:66:81:FC,Node:Unknown
+Type:Unknown,IPv4:192.168.5.17,Mac:A4:4C:C8:50:C3:6B,Node:Unknown
+Type:Unknown,IPv4:192.168.5.220,Mac:BC:5F:F4:45:7C:1E,Node:Unknown
